@@ -48,5 +48,8 @@
     "webpack-hot-middleware": "^2.25.0",
     "webpack-merge": "^4.2.1",
     "webpack-node-externals": "^1.7.2"
-  }
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
 }
